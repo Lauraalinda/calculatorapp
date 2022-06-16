@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">calculatorapp</string>
+    <string name="modulus">%</string>
+    <string name="divide">/</string>
+    <string name="subtraction">-</string>
+    <string name="addition">+</string>
+    <string name="enter_number2">Enter Number2</string>
+    <string name="enter_number1">Enter Number1</string>
+</resources>
